@@ -1,0 +1,8 @@
+/* style the p's that are only inside the container */
+
+.container .text {
+    color: red;
+    background-color: yellow;
+    text-align: center;
+    font-size: 20px;
+}
